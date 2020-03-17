@@ -1,0 +1,4 @@
+all:
+	#cmake .. # Local
+	cmake3 .. # CPlab
+
